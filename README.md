@@ -6,5 +6,9 @@ I will collect the datasets for NLP. The collection will keep updating.
 
 # English Corpus:
 1. > ### LitBank：NLP数据集——支持自然语言处理和计算人文学科任务的100部带标记小说语料  
-   > ### LitBank - Annotated dataset of 100 works of fiction to support tasks in natural language processing and the computational humanities  
+   > ### LitBank: Annotated dataset of 100 works of fiction to support tasks in natural language processing and the computational humanities  
    > [Github](https://github.com/dbamman/litbank) [Paper](http://people.ischool.berkeley.edu/~dbamman/pubs/pdf/naacl2019_literary_entities.pdf)
+   
+2. > ### conversational-datasets：对话AI大规模数据集 
+   > ### conversational-datasets: A collection of large datasets for conversational response selection.
+   > [Github](https://github.com/PolyAI-LDN/conversational-datasets)
