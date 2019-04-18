@@ -13,4 +13,5 @@ I will collect the datasets for NLP. The collection will keep updating.
    > ### LitBank: Annotated dataset of 100 works of fiction to support tasks in natural language processing and the computational humanities  
    > [Github](https://github.com/dbamman/litbank) [Paper](http://people.ischool.berkeley.edu/~dbamman/pubs/pdf/naacl2019_literary_entities.pdf)
    
-
+3. > ### Fake News Corpus: A dataset of millions of news articles scraped from a curated list of data sources 
+   > [Github](https://github.com/several27/FakeNewsCorpus)
