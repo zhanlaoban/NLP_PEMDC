@@ -2,11 +2,15 @@
 I will collect the datasets for NLP. The collection will keep updating.   
 我将不断收集我遇到的各种NLP数据集以备不时之需。本集合将不断地进行更新。  
 
-排名不分先后，仅按我添加的先后顺序。若有侵权，请电邮我告知删除。
+排名不分先后，仅按我添加的先后顺序。若有侵权，请电邮我告知删除。  
+
 
 # Chinese Courpus:
 1. > ### 大规模中文自然语言处理语料 Large Scale Chinese Corpus for NLP
    > [Github](https://github.com/brightmart/nlp_chinese_corpus)
+
+2. > ### 搜狗实验室语料集合
+   > [语料数据](http://www.sogou.com/labs/resource/list_yuliao.php)
 
 
 # English Corpus:
