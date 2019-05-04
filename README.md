@@ -3,6 +3,9 @@ I will collect the datasets for NLP. The collection will keep updating.
 我将不断收集我遇到的各种NLP数据集以备不时之需。本集合将不断地进行更新。
 
 # Chinese Courpus:
+1. > ### 大规模中文自然语言处理语料 Large Scale Chinese Corpus for NLP
+   > [Github](https://github.com/brightmart/nlp_chinese_corpus)
+
 
 # English Corpus:
 1. > ### conversational-datasets：对话AI大规模数据集 
