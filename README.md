@@ -12,6 +12,12 @@ I will collect the datasets for NLP. The collection will keep updating.
 2. > ### 搜狗实验室语料集合
    > [语料数据](http://www.sogou.com/labs/resource/list_yuliao.php)
 
+# Pretrained chinese Word Vectors(embeddings):
+1. > ### 100+ Chinese Word Vectors 上百种预训练中文词向量
+   > [Github](https://github.com/Embedding/Chinese-Word-Vectors)
+   
+2. > ### Tencent AI Lab Embedding Corpus for Chinese Words and Phrases
+   > [URL](https://ai.tencent.com/ailab/nlp/embedding.html)
 
 # English Corpus:
 1. > ### conversational-datasets：对话AI大规模数据集 
