@@ -2,7 +2,7 @@
 I will collect the datasets of open source for NLP. The collection will keep updating.   
 我将不断收集我遇到的各种NLP开源数据集以备不时之需。本集合将不断地进行更新。  
 
-排名不分先后，仅按我添加的先后顺序。数据集所有权均属于原作者，若有侵权，请电邮我告知删除。  
+排名不分先后，仅按我添加的先后顺序。数据集所有权均属于原作者，感谢！若有侵权，请电邮我告知删除。  
 
 
 # Chinese Courpus:
@@ -21,7 +21,7 @@ I will collect the datasets of open source for NLP. The collection will keep upd
 5. > ### 【集合】ChineseNlpCorpus
    > [Github](https://github.com/SophonPlus/ChineseNlpCorpus)
 
-# Pretrained chinese Word Vectors(embeddings):
+# Pretrained Chinese Word Vectors(embeddings):
 1. > ### 100+ Chinese Word Vectors 上百种预训练中文词向量
    > [Github](https://github.com/Embedding/Chinese-Word-Vectors)
    
