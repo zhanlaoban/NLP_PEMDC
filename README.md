@@ -1,6 +1,7 @@
 # NLP_datasets_collection
-I will collect the datasets of open source for NLP. The collection will keep updating.   
-我将不断收集我遇到的各种NLP开源数据集以备不时之需。本集合将不断地进行更新。  
+The pretrained word embeddings and datasets for NLP. The collection will keep updating.  
+不断收集我遇到的各种NLP预训练词向量和数据集。
+  
 
 排名不分先后，仅按我添加的先后顺序。数据集所有权均属于原作者，感谢！若有侵权，请电邮我告知删除。  
 
