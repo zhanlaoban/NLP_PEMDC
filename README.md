@@ -5,6 +5,13 @@ I will collect the datasets of open source for NLP. The collection will keep upd
 排名不分先后，仅按我添加的先后顺序。数据集所有权均属于原作者，感谢！若有侵权，请电邮我告知删除。  
 
 
+# Pretrained Chinese Word Vectors(embeddings):
+1. > ### 100+ Chinese Word Vectors 上百种预训练中文词向量
+   > [Github](https://github.com/Embedding/Chinese-Word-Vectors)
+   
+2. > ### Tencent AI Lab Embedding Corpus for Chinese Words and Phrases
+   > [URL](https://ai.tencent.com/ailab/nlp/embedding.html)
+
 # Chinese Courpus:
 1. > ### 【集合】大规模中文自然语言处理语料 Large Scale Chinese Corpus for NLP
    > [Github](https://github.com/brightmart/nlp_chinese_corpus)
@@ -20,13 +27,6 @@ I will collect the datasets of open source for NLP. The collection will keep upd
    
 5. > ### 【集合】ChineseNlpCorpus
    > [Github](https://github.com/SophonPlus/ChineseNlpCorpus)
-
-# Pretrained Chinese Word Vectors(embeddings):
-1. > ### 100+ Chinese Word Vectors 上百种预训练中文词向量
-   > [Github](https://github.com/Embedding/Chinese-Word-Vectors)
-   
-2. > ### Tencent AI Lab Embedding Corpus for Chinese Words and Phrases
-   > [URL](https://ai.tencent.com/ailab/nlp/embedding.html)
 
 # English Corpus:
 1. > ### conversational-datasets：对话AI大规模数据集 
