@@ -1,8 +1,10 @@
-# NLP_datasets_collection
-The pretrained word embeddings and datasets for NLP. The collection will keep updating.  
-不断收集我遇到的各种NLP预训练词向量和数据集。
+# NLP_PEDC
+**NLP** **P**redtrained **E**mbeddings and **D**atasets **C**ollections(**NLP_PEDC**)
 
+The pretrained word embeddings and datasets for NLP. The collection will keep updating. The purpose of these pre-trained word vectors and datasets is for learning and research purposes only.
+不断收集我遇到的各种NLP预训练词向量和数据集。这些预训练词向量和数据集的目的仅用来学习和研究。
 
+The rankings are in no particular order, only in the order I added them. The data set belongs to the original author, thanks! If there is any infringement, please email me and let me know. 
 排名不分先后，仅按我添加的先后顺序。数据集所有权均属于原作者，感谢！若有侵权，请电邮我告知删除。  
 
 
