@@ -1,10 +1,12 @@
 # NLP_PEDC
 **NLP** **P**redtrained **E**mbeddings and **D**atasets **C**ollections(**NLP_PEDC**)
 
-The pretrained word embeddings and datasets for NLP. The collection will keep updating. The purpose of these pre-trained word vectors and datasets is for learning and research purposes only.
+The pretrained word embeddings and datasets for NLP. The collection will keep updating. The purpose of these pre-trained word vectors and datasets is for learning and research purposes only. 
+
 不断收集我遇到的各种NLP预训练词向量和数据集。这些预训练词向量和数据集的目的仅用来学习和研究。
 
 The rankings are in no particular order, only in the order I added them. The data set belongs to the original author, thanks! If there is any infringement, please email me and let me know. 
+
 排名不分先后，仅按我添加的先后顺序。数据集所有权均属于原作者，感谢！若有侵权，请电邮我告知删除。  
 
 
@@ -89,7 +91,7 @@ TODO
    >
    > [Download]( https://gluebenchmark.com/tasks )
    >
-   > Including:
+   > **Including:**
    >
    > 1.  The Corpus of Linguistic Acceptability 
    > 2.  The Stanford Sentiment Treebank 
@@ -107,6 +109,8 @@ TODO
    >
    > [Download](https://super.gluebenchmark.com/tasks)
    >
+   > **Including:**
+   >
    > 1.  Broadcoverage Diagnostics 
    > 2.  CommitmentBank 
    > 3.  Choice of Plausible Alternatives 
@@ -117,3 +121,9 @@ TODO
    > 8.  BoolQ 
    > 9.  Reading Comprehension with Commonsense Reasoning 
    > 10.  Winogender Schema Diagnostics 
+   
+3. > ### IMDB Large Movie Review Dataset
+   >
+   > This is a dataset for binary sentiment classification containing substantially more data than previous benchmark datasets. We provide a set of 25,000 highly polar movie reviews for training, and 25,000 for testing. There is additional unlabeled data for use as well. 
+   >
+   > [Download](https://ai.stanford.edu/~amaas/data/sentiment/)
