@@ -44,9 +44,9 @@ TODO
    >
    > 目前包含：
    >
-   > 1. ##### LCQMC 口语化描述的语义相似度任务 Semantic Similarity Task
+   > 1. ##### LCQMC 口语化描述的语义相似度任务 Semantic Similarity Task  [COLING 2018](https://www.aclweb.org/anthology/C18-1166/)
    >
-   > 2. ##### XNLI 语言推断任务 Natural Language Inference
+   > 2. ##### XNLI 语言推断任务 Natural Language Inference [EMNLP 2015](https://www.aclweb.org/anthology/D15-1075/)
    >
    > 3. ##### TNEWS 今日头条中文新闻（短文本）分类 Short Text Classificaiton for News
    >
@@ -60,7 +60,7 @@ TODO
    >
    > 8. ##### CMRC2018 简体中文阅读理解任务 Reading Comprehension for Simplified Chinese
    >
-   > 9. ##### BQ 智能客服问句匹配 Question Matching for Customer Service
+   > 9. ##### BQ 智能客服问句匹配 Question Matching for Customer Service [EMNLP 2018](https://www.aclweb.org/anthology/D18-1536/) [Download](http://icrc.hitsz.edu.cn/Article/show/175.html)
    >
    > 10. ##### MSRANER 命名实体识别 Name Entity Recognition
    >
@@ -74,7 +74,7 @@ TODO
    >
    > [arXiv]( https://arxiv.org/abs/1506.05865 )
    >
-   > [URL]( http://icrc.hitsz.edu.cn/Article/show/139.html )
+   > [Download]( http://icrc.hitsz.edu.cn/Article/show/139.html )
 
 6. > ### chinese-poetry: 最全中文诗歌古典文集数据库
    > [Github](https://github.com/chinese-poetry/chinese-poetry)
