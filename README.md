@@ -1,9 +1,9 @@
-# NLP_PEDC
-**NLP** **P**redtrained **E**mbeddings and **D**atasets **C**ollections(**NLP_PEDC**)
+# NLP_PEMDC
+**NLP** **P**redtrained **E**mbeddings, **M**odels and **D**atasets **C**ollections(**NLP_PEDC**)
 
 The pretrained word embeddings and datasets for NLP. The collection will keep updating. The purpose of these pre-trained word vectors and datasets is for learning and research purposes only. 
 
-不断收集我遇到的各种NLP预训练词向量和数据集。这些预训练词向量和数据集的目的仅用来学习和研究。
+不断收集我遇到的各种NLP预训练词向量、模型和数据集。这些预训练词向量和数据集的目的仅用来学习和研究。
 
 The rankings are in no particular order, only in the order I added them. The data set belongs to the original author, thanks! If there is any infringement, please email me and let me know. 
 
@@ -24,6 +24,32 @@ The rankings are in no particular order, only in the order I added them. The dat
 ## GloVe
 
 TODO
+
+
+
+# Chinese Pre-trained Models
+1. > ### Chinese-BERT
+   > [Github](https://github.com/google-research/bert)
+   
+1. > ### Chinese-BERT-wwm
+   >
+   > [Github](https://github.com/ymcui/Chinese-BERT-wwm)
+
+1. >### Chinese-XLNet
+   >
+   >[Github1](https://github.com/brightmart/xlnet_zh)
+   >
+   >[Github2](https://github.com/ymcui/Chinese-PreTrained-XLNet)
+
+1. >### Chinese-RoBERTa
+   >
+   >[Github](https://github.com/brightmart/roberta_zh)
+
+1. > ### Chinese-ALBERT
+   >
+   > [Github](https://github.com/brightmart/albert_zh)
+
+
 
 
 
