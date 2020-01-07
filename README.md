@@ -47,7 +47,9 @@ TODO
 
 1. > ### Chinese-ALBERT
    >
-   > [Github](https://github.com/brightmart/albert_zh)
+   > [Github1](https://github.com/brightmart/albert_zh)
+   >
+   > [Github2](https://github.com/google-research/ALBERT)
 
 
 
