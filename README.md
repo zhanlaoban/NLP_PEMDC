@@ -1,5 +1,5 @@
 # NLP_PEMDC
-**NLP** **P**redtrained **E**mbeddings, **M**odels and **D**atasets **C**ollections(**NLP_PEDC**)
+**NLP** **P**redtrained **E**mbeddings, **M**odels and **D**atasets **C**ollections(**NLP_PEMDC**)
 
 The pretrained word embeddings and datasets for NLP. The collection will keep updating. The purpose of these pre-trained word vectors and datasets is for learning and research purposes only. 
 
